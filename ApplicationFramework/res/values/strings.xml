@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSTracking</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">GPS Tracking</string>
+    <string name="splash">Splash</string>
+    <string name="title_activity_register">Registration</string>
+    <string name="title_map_activity">Map</string>
+
+</resources>
